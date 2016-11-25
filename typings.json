@@ -1,0 +1,19 @@
+{
+  "name": "photo-app",
+  "dependencies": {
+    "body-parser": "registry:npm/body-parser#1.15.2+20161116154925",
+    "chalk": "registry:npm/chalk#1.1.1+20160812215109",
+    "express": "registry:npm/express#4.14.0+20160925001530",
+    "orchestrator": "registry:npm/orchestrator#0.3.7+20160723033700",
+    "through2": "registry:npm/through2#2.0.0+20160817101636",
+    "vinyl": "registry:npm/vinyl#1.2.0+20161017220031"
+  },
+  "globalDependencies": {
+    "gulp": "registry:dt/gulp#3.8.0+20160907112908",
+    "gulp-typescript": "registry:dt/gulp-typescript#0.0.0+20160317120654",
+    "gulp-util": "registry:dt/gulp-util#0.0.0+20160316155526",
+    "method-override": "registry:dt/method-override#0.0.0+20160925094606",
+    "morgan": "registry:dt/morgan#1.7.0+20160524142355",
+    "node": "registry:env/node#6.0.0+20161105011511"
+  }
+}

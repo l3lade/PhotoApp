@@ -1,0 +1,6 @@
+{
+  // Customer module configs
+  "dbConfig": {
+      "url": "mongodb://localhost/resources"
+    }
+}
